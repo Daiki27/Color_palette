@@ -1,7 +1,7 @@
 # Color Palette
 This program makes 12 colors that are identical in tone and outputs them in the form of an image.  
-* input : h,s,v  
-* output : rgb image <= see "Example Tone Equal Colors"
+* input : s,v  
+* output : rgb image (see "Example Tone Equal Colors")
 
 
 ## HSV (HSB) Color Space
