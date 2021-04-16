@@ -36,5 +36,8 @@ The following figure shows the results when the hue is changed by 30 degrees in 
 
 <img width="1252" alt="スクリーンショット 2021-04-11 20 24 07" src="https://user-images.githubusercontent.com/27540739/114302421-e4c11b80-9b03-11eb-99d2-6dd2a43e364d.png">
 
+## Supplement
+PCSS defines tone like [this](http://www.sikiken.co.jp/pccs/pccs04.html)  
+
 ## Ref
 * RGB to HSV Mathematics [site](http://hooktail.org/computer/index.php?RGB%A4%AB%A4%E9HSV%A4%D8%A4%CE%CA%D1%B4%B9%A4%C8%C9%FC%B8%B5)
