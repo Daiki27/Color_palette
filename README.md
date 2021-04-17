@@ -40,4 +40,4 @@ The following figure shows the results when the hue is changed by 30 degrees in 
 PCSS defines tone like [this](http://www.sikiken.co.jp/pccs/pccs04.html)  
 
 ## Ref
-* RGB to HSV Mathematics [site](http://hooktail.org/computer/index.php?RGB%A4%AB%A4%E9HSV%A4%D8%A4%CE%CA%D1%B4%B9%A4%C8%C9%FC%B8%B5)
+RGB to HSV Mathematics [site](http://hooktail.org/computer/index.php?RGB%A4%AB%A4%E9HSV%A4%D8%A4%CE%CA%D1%B4%B9%A4%C8%C9%FC%B8%B5)
